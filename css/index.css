@@ -1,0 +1,44 @@
+body{
+  font-style: normal;
+  font-weight: normal;
+  font-family: TeX Gyre Adventor;
+  font-size: 30px;
+  line-height: 44px;
+}
+.caro{
+  color:#000000;
+}
+#footer{
+  font-size: 15px;
+color:#ffffff;
+}
+#footer a:link{
+  color:#ffffff;
+}
+
+#footer a:visited{
+  color:#ffffff;
+}
+
+.form-group{
+  font-size: 20px;
+}
+
+#infect2{
+  font-size: 17px;
+  margin-bottom: 400px;
+}
+
+#footer a:hover{
+  color:#000000;
+}
+
+#num{
+  color: #ffffff;
+  font-size: 15px;
+}
+
+
+#ask{
+  font-size: 20px;
+}
